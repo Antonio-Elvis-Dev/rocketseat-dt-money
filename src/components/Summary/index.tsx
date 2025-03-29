@@ -25,7 +25,6 @@ export function Summary() {
         </header>
         <strong>R$ 17.500,00</strong>
       </SummaryCard>
-      <h1>index</h1>
     </SummaryContainer>
   );
 }
