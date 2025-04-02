@@ -17,6 +17,14 @@
         "price":12,
         "createdAt":"2025-03-30T21:43:19.671Z"
 
-    }
+    },{
+      "id":3,
+      "description":"Feira",
+      "type":"outcome",
+      "category":"Alimentacao",
+      "price":1222,
+      "createdAt":"2025-03-30T21:43:19.671Z"
+
+  }
   ]
 }
