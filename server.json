@@ -1,30 +1,68 @@
 {
   "transactions": [
     {
-        "id":1,
-        "description":"Desenvolvimento de site",
-        "type":"income",
-        "category":"Venda",
-        "price":12000,
-        "createdAt":"2025-03-30T21:43:19.671Z"
-
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2025-03-30T21:43:19.671Z"
     },
     {
-        "id":2,
-        "description":"Passaporte",
-        "type":"outcome",
-        "category":"Alimentacao",
-        "price":12,
-        "createdAt":"2025-03-30T21:43:19.671Z"
-
-    },{
-      "id":3,
-      "description":"Feira",
-      "type":"outcome",
-      "category":"Alimentacao",
-      "price":1222,
-      "createdAt":"2025-03-30T21:43:19.671Z"
-
-  }
+      "id": 2,
+      "description": "Passaporte",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 12,
+      "createdAt": "2025-03-30T21:43:19.671Z"
+    },
+    {
+      "id": 3,
+      "description": "Feira",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 1222,
+      "createdAt": "2025-03-30T21:43:19.671Z"
+    },
+    {
+      "category": "aliemntação",
+      "description": "FEira da semana",
+      "price": 244,
+      "type": "income",
+      "createdAt": "2025-04-02T23:46:09.266Z",
+      "id": 4
+    },
+    {
+      "category": "alimentação",
+      "description": "Feira da semana",
+      "price": 244,
+      "type": "outcome",
+      "createdAt": "2025-04-02T23:47:31.084Z",
+      "id": 5
+    },
+    {
+      "category": "educação",
+      "description": "curso Rocketseat ",
+      "price": 4000,
+      "type": "outcome",
+      "createdAt": "2025-04-02T23:50:22.056Z",
+      "id": 6
+    },
+    {
+      "category": "teste",
+      "description": "teste",
+      "price": 33,
+      "type": "income",
+      "createdAt": "2025-04-02T23:59:05.529Z",
+      "id": 7
+    },
+    {
+      "category": "alimentação",
+      "description": "hamburguer",
+      "price": 33,
+      "type": "outcome",
+      "createdAt": "2025-04-03T00:37:36.367Z",
+      "id": 8
+    }
   ]
 }
